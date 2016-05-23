@@ -1,4 +1,4 @@
-# react-native-redux-demo
+# react-native-keyboard-demo
 
 This is a keyboard events manage demo in react-native app.
 
@@ -8,7 +8,7 @@ This is a keyboard events manage demo in react-native app.
 ## Installation
     
     git clone https://github.com/ninty90/react-native-keyboard-demo.git
-    cd react-native-redux-demo & npm install
+    cd react-native-keyboard-demo & npm install
 
 ## Run
     
